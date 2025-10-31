@@ -43,6 +43,151 @@ Utilizar habilidades de comunicação, organização, análise de dados e foco n
 
 
 ## Plano de aprendizado com metas mensais
+
+| COMPETÊNCIAS |
+| - |
+<details>
+<summary>Certificações</summary>
+- IBQTS</br>
+- CTFL</br>
+</details>
+
+<details>
+<summary>Carreira</summary>
+> Q.A Junior</br>
+> Q.A Pleno</br>
+> Q.A Sênior = Q.A Quality Engineer
+</details>
+
+| Essenciais |
+| - |
+<details>
+<summary>Prompt de Comandos</summary>
+- Unix</br>
+</details>
+
+<details>
+<summary>Sistema Operacional</summary>
+> Linux</br>
+</details>
+
+<details>
+<summary>Ferramentas</summary>
+> Visual Studio Code
+</details>
+
+| Fundamental |
+| - |
+<details>
+<summary>Técnicas e Estratégica de Teste</summary>
+  - Piramide de Teste</br>
+  - Quadrante de teste</br>
+  - BDD = Behavior Driven Development (Desenvolvimento Orientado ao Comportamento)</br>
+  - Caixa Branca</br>
+  - Caixa Preta</br>
+</details>
+
+<details>
+<summary>Tipos de Testes</summary>
+<summary>Funcional</summary>
+  - Teste de Unidade</br>
+  - Teste de Integração</br>
+  - Teste de Sistema</br>
+  - Teste de Regressão</br>
+  - Teste de Aceitação</br>
+<summary>Não Funcional</summary>
+  - Teste de Segurança</br>
+  - Teste de Performance</br>
+  - Teste de Compatibilidade</br>
+  - Teste de Usabilidade</br>
+</details>
+
+| Gerenciamento de Testes |
+| - |
+<details>
+<summary>Ferramentas</summary>
+  - JIRA</br>
+  </details>
+
+<details>
+<summary>Planejamento de Teste</summary>
+  - Gerenciamento de Defeitos</br>
+  - Cenários de Testes</br>
+  - Relatórios de Testes</br>
+  - Relatórios de Testes/STATUS</br>
+</details>
+
+| Negócios |
+| - |
+<details>
+<summary>BDD = Behavior Driven Development (Desenvolvimento Orientado ao Comportamento)</br></summary>
+  - Gherkin</br>
+  </details>
+
+| Metodologia |
+| - |
+<details>
+<summary>Ágil</summary>
+  - Scrum</br>
+  - Kanban</br>
+  </details>
+
+| Automações |
+| - |
+<details>
+<summary>Repositório</summary>
+  - GitHub</br>
+    </details>
+
+<details>
+<summary>Versionamento</summary>
+  - GIT</br>
+    </details>
+
+<details>
+<summary>Framework</summary>
+  - Cypress</br>
+  - Playwright</br>
+  - Selenium</br>
+  </details>
+
+<details>
+<summary>Massa de Dados</summary>
+<summary>Data Drive</summary>
+> BD 
+</details>
+
+| Linguagem de Programação |
+| - |
+> Javascript</br>
+> Java</br>
+> Orientação de Objetos</br>
+<details>
+<summary>Ferramentas</summary>
+> Node.js</br>
+> VsCode</br>
+> Intellij</br>
+</details>
+
+| Dados |
+| - |
+<details>
+<summary>Repositório</summary>
+  - GitHub</br>
+    </details>
+
+<details>
+<summary>Versionamento</summary>
+  - GIT</br>
+    </details>
+
+<details>
+<summary>Framework</summary>
+  - Cypress</br>
+  - Playwright</br>
+  - Selenium</br>
+  </details>
+
 ## Links para certificados, cursos e contato
 
 
@@ -58,7 +203,9 @@ Utilizar habilidades de comunicação, organização, análise de dados e foco n
 
 
 
-
+```ruby
+   TMJ!!!
+```
 
 
 
