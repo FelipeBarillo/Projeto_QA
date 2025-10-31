@@ -172,21 +172,9 @@ Utilizar habilidades de comunicação, organização, análise de dados e foco n
 | Dados |
 | - |
 <details>
-<summary>Repositório</summary>
-  - GitHub</br>
+<summary>BD SQL</summary>
+  - MySQL</br>
     </details>
-
-<details>
-<summary>Versionamento</summary>
-  - GIT</br>
-    </details>
-
-<details>
-<summary>Framework</summary>
-  - Cypress</br>
-  - Playwright</br>
-  - Selenium</br>
-  </details>
 
 ## Links para certificados, cursos e contato
 
