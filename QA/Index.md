@@ -11,6 +11,6 @@ Vamos começar aprendendo a planejar testes, conhecendo as estratégias e tipos 
 - Entenda o que são cenários e casos de teste
 - Aprenda como metrificar a qualidade do seu software;
 
-[Artigo: Tipos de testes: quais os principais e por que utilizá-los?](https://github.com/FelipeBarillo/Projeto_QA/blob/main/QA/Artigo1.md)
+[Artigo: Tipos de testes: quais os principais e por que utilizá-los?](https://github.com/FelipeBarillo/Projeto_QA/blob/main/QA/Artigo1.md)</br>
 [Artigo: Por que e o que é possível testar?](https://github.com/FelipeBarillo/Projeto_QA/blob/main/QA/Artigo2.md)
 
