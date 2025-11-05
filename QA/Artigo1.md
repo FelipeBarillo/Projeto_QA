@@ -1,3 +1,5 @@
+# Tipos de testes: quais os principais e por que utilizá-los?
+
 Se você iniciou há pouco tempo sua jornada no mundo do desenvolvimento, provavelmente em algum momento se deparou com os famosos testes de software, ou mesmo percebeu que dentre as exigências para vagas em muitas empresas estão presentes algumas tecnologias de testes. Existem diferentes tipos de testes e é isso que vamos discutir neste artigo!
 
 Tornou-se padrão que empresas busquem testar seus produtos em diferentes etapas do desenvolvimento até a entrega ao usuário final, devido às vantagens que os testes nos trazem, possibilitando a identificação de erros e garantindo a confiabilidade no uso do software, que deve ser um produto com qualidade de funcionamento.
@@ -5,8 +7,6 @@ Tornou-se padrão que empresas busquem testar seus produtos em diferentes etapas
 Então sabendo do quão importantes são os testes e de como as empresas hoje buscam utilizá-los em diversas etapas da criação do software, nos vem a pergunta: quais são os tipos de testes?
 
 É comum sentir uma certa dificuldade em entender os tipos de testes. Até a data da escrita deste artigo, não temos uma definição exata de quais tipos de testes são de fato os principais. Mas podemos dizer que alguns deles são os mais utilizados.No geral, a escolha pela utilização de determinados tipos de testes depende do projeto, cultura da empresa e da equipe que os realizam.
-
-Tendo isso em mente, vamos abordar alguns desses tipos mais utilizados atualmente!
 
 ## Testes unitários
 
@@ -16,8 +16,7 @@ Geralmente são realizados de forma isolada do restante do sistema, visto que te
 
 Esses testes têm como objetivo verificar as menores unidades isoladamente, garantindo que a lógica de cada uma delas está correta e que funciona conforme o esperado. Geralmente têm um baixo custo para automatização e podem ser executados rapidamente, inclusive por um servidor de integração contínua.
 
-Testes de integração
-Duas peças de um quebra cabeças alinhadas, sendo seguradas lado a lado por duas mãos. O gesto das mãos indica que as peças serão encaixadas.
+## Teste de Integração
 
 Como vimos, os testes unitários buscam verificar se elementos individuais (unidades) do sistema estão corretos, mas isso não nos garante que a interação entre essas unidades ocorrerá da forma que planejamos. É nesse momento que utilizamos os testes de integração.
 
@@ -26,8 +25,6 @@ Geralmente eles são mais complexos para serem desenvolvidos e mais lentos ao se
 Por isso, o ideal é realizar testes de integração após a realização dos testes unitários, garantindo que as unidades estão corretas individualmente e também que funcionam em conjunto.
 
 ## Testes de ponta a ponta (E2E)
-
-Representação de dois pontos de localização, o primeiro estando na parte superior à esquerda e o segundo na parte inferior à direita. Os dois pontos são ligados por uma linha pontilhada em forma de “S”.
 
 Como o próprio nome sugere, esses testes buscam verificar o comportamento do sistema como um todo, “de uma ponta à outra”.
 
@@ -41,27 +38,25 @@ Demoram mais para ser escritos e executados, visto que englobam todo o projeto e
 
 ## Teste manual vs. automatizado
 
-Em primeiro plano, um robô roxo segurando uma prancheta e uma caneta. Em segundo plano uma lupa e livros enfileirados. Um homem com uma prancheta na mão analisa os livros.
-
 Agora que entendemos alguns dos principais tipos de testes, vêm algumas questões que são muito comuns. O que são testes automatizados? Quais as vantagens e quando devemos utilizá-los?
 
-Bem…a maioria dos testes podem ser executados de duas formas: manual ou automatizada. O teste manual, como o próprio nome nos indica, é feito manualmente por um analista, desenvolvedor ou especialista em qualidade. Nessa situação, a pessoa responsável pelos testes irá executar cada passo necessário para que o teste seja realizado com sucesso, sempre atento para as condições que o teste precisa para ser realizado da forma correta.
+A maioria dos testes podem ser executados de duas formas: <b>manual ou automatizada</b>. <b>O teste manual</b>, como o próprio nome nos indica, é feito manualmente por um analista, desenvolvedor ou especialista em qualidade. Nessa situação, a pessoa responsável pelos testes irá executar cada passo necessário para que o teste seja realizado com sucesso, sempre atento para as condições que o teste precisa para ser realizado da forma correta.
 
-O teste manual costuma ter baixo valor de investimento e também permite que a pessoa que os realiza experimente condições semelhantes às do ambiente de produção, já que pode definir os parâmetros do teste manualmente.
+<b>O teste manual</b> costuma ter baixo valor de investimento e também permite que a pessoa que os realiza experimente condições semelhantes às do ambiente de produção, já que pode definir os parâmetros do teste manualmente.
 
 Em compensação, testes manuais são mais lentos e como dependem totalmente da interação humana, sempre existe uma alta possibilidade de um problema passar despercebido por quem testa.
 
-Já os testes automatizados nos trazem a praticidade de ter scripts, ferramentas como os mocks, citados neste artigo e técnicas que agilizam o processo. Eles nos ajudam a descobrir rapidamente se o sistema está com o desempenho esperado, e por serem automatizados, podem ser executados sem a necessidade de uma pessoa em todas as etapas de testes.
+Já os <b>O teste automatizados</b> nos trazem a praticidade de ter scripts, ferramentas como os mocks, citados neste artigo e técnicas que agilizam o processo. Eles nos ajudam a descobrir rapidamente se o sistema está com o desempenho esperado, e por serem automatizados, podem ser executados sem a necessidade de uma pessoa em todas as etapas de testes.
 
 São mais confiáveis, já que são definidos por uma ferramenta ou scripts específicos; Assim o teste será executado automaticamente, sem interferência humana direta, diminuindo a possibilidade de erros passarem despercebidos.
 
 Costumam ser mais caros, pois dependem de ferramentas específicas e o nível de automação que escolhemos influencia no tipo de ferramenta a ser utilizada, o que pode trazer mais custos. Além disso, existem problemas que apenas um testador humano poderá detectar, como os de usabilidade. Nesses casos não conseguimos utilizar a automatização de forma eficiente.
 
-Por fim, fica a dúvida: Usar testes automatizados ou manuais? Essa é uma daquelas perguntas que têm como resposta um: depende…
+### Por fim, fica a dúvida: Usar testes automatizados ou manuais? Essa é uma daquelas perguntas que têm como resposta um: depende…
 
 O mais comum é que os dois tipos sejam utilizados em simultâneo, pois como vimos, temos vantagens e desvantagens em ambos e existem tipos de testes que preferencialmente serão automatizados, enquanto outros tendem a permanecer manuais, pois se faz necessária uma interação humana real, ou ainda por apresentarem um custo muito elevado.
 
-## Conclusão 
+## Conclusão:
 
 Como vimos, os testes nos trazem muitas vantagens, nos garantem um maior padrão de qualidade no desenvolvimento e asseguram que os requisitos do projeto serão atingidos.
 
