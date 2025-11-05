@@ -61,7 +61,7 @@ Por fim, fica a dúvida: Usar testes automatizados ou manuais? Essa é uma daque
 
 O mais comum é que os dois tipos sejam utilizados em simultâneo, pois como vimos, temos vantagens e desvantagens em ambos e existem tipos de testes que preferencialmente serão automatizados, enquanto outros tendem a permanecer manuais, pois se faz necessária uma interação humana real, ou ainda por apresentarem um custo muito elevado.
 
-## Conclusão
+## Conclusão 
 
 Como vimos, os testes nos trazem muitas vantagens, nos garantem um maior padrão de qualidade no desenvolvimento e asseguram que os requisitos do projeto serão atingidos.
 
