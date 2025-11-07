@@ -61,9 +61,3 @@ O mais comum é que os dois tipos sejam utilizados em simultâneo, pois como vim
 Como vimos, os testes nos trazem muitas vantagens, nos garantem um maior padrão de qualidade no desenvolvimento e asseguram que os requisitos do projeto serão atingidos.
 
 Além disso, os tipos diferentes de testes complementam uns aos outros, fazendo com que todas as etapas da produção do software sejam realizadas com maior eficiência, reduzindo drasticamente a ocorrência de erros nos projetos.
-
-<<<<<<< HEAD
-Vale lembrar que não abordamos aqui todos os tipos de testes…na verdade existem muitos outros tipos bem interessantes que não foram tratados e são muito úteis.
-=======
-Vale lembrar que não abordamos aqui todos os tipos de testes…na verdade existem muitos outros tipos bem interessantes que não foram tratados e são muito úteis.
->>>>>>> refs/remotes/origin/main
